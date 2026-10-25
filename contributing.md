@@ -291,3 +291,6 @@ opening a support request.
 | A feature request | Open an issue with the `enhancement` label |
 
 <p align="center"><sub>diablo-4-scope · Updated 2026-10-25 · Shared under the MIT License</sub></p>
+
+
+*Last updated: 2026-10-25*
